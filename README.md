@@ -27,11 +27,10 @@ Favicon personalizado ubicado en la carpeta Logo.
 Cómo visualizarlo
 
 No requiere servidor (WampServer, XAMPP, etc.), ya que es HTML/CSS puro.
-
 Descarga la carpeta completa manteniendo la estructura de archivos indicada arriba.
 Haz doble clic en index.html y se abrirá directamente en el navegador.
+<img width="1351" height="728" alt="image" src="https://github.com/user-attachments/assets/c8c42814-cd5c-4cd0-aedf-ce122ff7de7a" />
+<img width="1165" height="646" alt="image" src="https://github.com/user-attachments/assets/69aa41ad-1cb3-426a-abae-5b481cba6d23" />
+<img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/d5e79043-6796-4e2c-8772-0f9c0b6ccf7d" />
 
-Tecnologías utilizadas
-HTML5
-CSS3
-JavaScript (solo para el año automático del pie de página y el saludo en vivo del formulario)
+
